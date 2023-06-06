@@ -1,5 +1,10 @@
-.cpcache
-.exercism
-.idea
 .DS_Store
+
+.idea
 *.iml
+target
+
+.lein-failures
+.cpcache
+
+.exercism
